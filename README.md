@@ -1,5 +1,5 @@
 # FFAP
-##Fucking Financial Analysis Package
+## Fucking Financial Analysis Package
 *by Aksel Boiron*
 
 ### Installation / Upgrade
@@ -9,7 +9,7 @@ pip install ffap==1.0
 pip install --upgrade ffap
 ```
 
-###Examples
+### Examples
 * Products
     * European call
     ```python
